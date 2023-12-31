@@ -1,3 +1,5 @@
+#Author SUSUDOSU
+
 import requests
 import os
 import socket
